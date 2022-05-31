@@ -1,0 +1,1 @@
+A simple parallax effect landing page
